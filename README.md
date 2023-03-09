@@ -5,4 +5,4 @@ Vanilla JS means no plugins, no libraries, nothing.
 
 Refer to the question doc for more details: Question Doc
 
-![3  Todo list -Ritesh Raj](https://user-images.githubusercontent.com/55082461/224134136-2b5aece1-b09f-4459-b1f6-e5c07cfe7606.png)
+![Todo vanilla JS](https://user-images.githubusercontent.com/55082461/224135473-a25f8d13-90b4-43da-bc45-f6b1d5929779.png)
